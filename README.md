@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/chetanmadaboni" target="blank"><img src="https://img.shields.io/twitter/follow/chetanmadaboni?logo=twitter&style=for-the-badge" alt="chetanmadaboni" /></a> </p>
 
-- 🌱 I’m currently learning **Sping,JavaScript**
+- 🌱 I’m currently learning **JavaScript,React**
 
 - 💬 Ask me about **Android application, Arduino,IoT Sensors,Java,Python,Chat Bots**
 
